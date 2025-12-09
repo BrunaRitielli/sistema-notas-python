@@ -1,0 +1,29 @@
+# 📘 Sistema de Notas em Python
+
+Um sistema simples e funcional desenvolvido em Python para cadastrar alunos, registrar suas notas, calcular médias e permitir a consulta individual de cada estudante.  
+Este projeto demonstra domínio de lógica de programação, manipulação de listas, estrutura de repetição, validação e exibição formatada de dados.
+
+---
+
+## 🚀 Funcionalidades
+
+- ✔️ Cadastro de alunos
+- ✔️ Registro de duas notas por aluno
+- ✔️ Cálculo automático de média
+- ✔️ Exibição de boletim com média geral
+- ✔️ Consulta individual de notas por número do aluno
+- ✔️ Menu interativo e repetitivo até o usuário decidir sair
+
+---
+
+## 🧠 Conceitos praticados neste projeto
+
+- Manipulação de **listas aninhadas**
+- Estruturas de controle (`while`, `if`)
+- Formatação de saída com **f-strings**
+- Estruturação de um mini-sistema em terminal
+- Lógica sequencial + estrtutura de repetição
+- Separação de dados e apresentação
+
+---
+
